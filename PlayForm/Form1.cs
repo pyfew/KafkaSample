@@ -93,6 +93,7 @@ namespace PlayForm
             consumer = new ConsumerBuilder<Ignore, string>(config).Build();
             List<string> lstopic = new List<string> { "test", "copy" };
 
+            //
             Console.WriteLine("Created Group:" + GroupID);
         }
 
