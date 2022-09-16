@@ -1,0 +1,12 @@
+kafkaComsumer/.vs/
+kafkaComsumer/bin/
+kafkaComsumer/obj/kafkaComsumer.csproj.nuget.dgspec.json
+kafkaComsumer/obj/
+kafkaProducer/bin/
+kafkaProducer/obj/
+PlayForm/bin/
+PlayForm/obj/
+SampleCommon/bin/
+SampleCommon/obj/
+.vs/
+*.user
